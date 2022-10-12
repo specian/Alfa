@@ -1,5 +1,8 @@
 # Domácí úkol
+Zadání:
 https://gist.github.com/remunda/3b510f54c6d11a2011bc
+a zároveň
+https://bitbucket.org/continero/backend_homework/src/master/
 
 Komentáře k původnímu kódu podle zadání:
 
